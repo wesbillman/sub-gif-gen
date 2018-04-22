@@ -10,7 +10,7 @@ looping gifs of your favorite scenes from your favorite, most quotable shows and
 
 ```sh
 npm install # Install NodeJS dependencies
-brew install imagemagick # Install imagemagic (currently required for subtitles)
+brew bundle # Install imagemagic (currently required for subtitles)
 ```
 
 ## Usage
